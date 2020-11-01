@@ -10,7 +10,7 @@ inputs:
 
 runs:
   using: "docker"
-  iamge: "Dockerfile"
+  image: "Dockerfile"
 
 branding:
   icon: "mic"
